@@ -1,0 +1,1 @@
+# goaler_configs_repository
