@@ -1,7 +1,0 @@
-{
-  "baseUrl": "https://7qm1h86e4h.execute-api.us-east-2.amazonaws.com/Prod",
-  "adsConfig": {
-    "admobAppIdAndroid": "ca-app-pub-4404101665131465~8405764359",
-    "admobUnitIdAndroidTasksListBanner": "ca-app-pub-3940256099942544/6300978111"
-  }
-}
