@@ -3,5 +3,13 @@
   "adsConfig": {
     "admobAppIdAndroid": "ca-app-pub-4404101665131465~8405764359",
     "admobUnitIdAndroidTasksListBanner": "ca-app-pub-3940256099942544/6300978111"
+  },
+  "forceUpdate": {
+    "android": {
+      "minEligibleBuildNumber": 1
+    },
+    "ios": {
+      "minEligibleBuildNumber": 1
+    }
   }
 }
