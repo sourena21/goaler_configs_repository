@@ -2,7 +2,8 @@
   "baseUrl": "https://xhlpv7ic1a.execute-api.us-east-2.amazonaws.com/Prod",
   "adsConfig": {
     "admobAppIdAndroid": "ca-app-pub-9080718197002470~8727880989",
-    "admobUnitIdAndroidTasksListBanner": "ca-app-pub-9080718197002470/2195086632"
+    "admobUnitIdAndroidTasksListBanner": "ca-app-pub-9080718197002470/2195086632",
+    "admobUnitIdAndroidAddTaskBanner": "ca-app-pub-9080718197002470/1017392799"
   },
   "forceUpdate": {
     "android": {
