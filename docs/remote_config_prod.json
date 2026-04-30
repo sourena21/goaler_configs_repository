@@ -3,7 +3,10 @@
   "adsConfig": {
     "admobAppIdAndroid": "ca-app-pub-9080718197002470~8727880989",
     "admobUnitIdAndroidTasksListBanner": "ca-app-pub-9080718197002470/2195086632",
-    "admobUnitIdAndroidAddTaskBanner": "ca-app-pub-9080718197002470/1017392799"
+    "admobUnitIdAndroidAddTaskBanner": "ca-app-pub-9080718197002470/1017392799",
+    "admobUnitIdAndroidGoalsListBanner": "ca-app-pub-9080718197002470/6684989150",
+    "admobUnitIdAndroidAddGoalBanner": "ca-app-pub-9080718197002470/2831795042",
+    "admobUnitIdAndroidGoalDetailBanner": "ca-app-pub-9080718197002470/4004961281"
   },
   "forceUpdate": {
     "android": {
